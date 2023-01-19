@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup, KeyboardButton
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
-bot = aiogram.Bot(token='5809426612:AAFwPNFN8OIp2kFPYM_bv6jWxC7ZmmmbHqM')
+bot = token вставишь
 dp = aiogram.Dispatcher(bot, storage=MemoryStorage())
 
 # ******Клавиатура 1********
