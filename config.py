@@ -1,0 +1,4 @@
+TOKEN='5809426612:AAFwPNFN8OIp2kFPYM_bv6jWxC7ZmmmbHqM'
+PAY_MASTER_TOKEN = '1744374395:TEST:093b25a411892efdcf8b'
+
+TIME_MACHINE_IMAGE_URL = 'http://erkelzaar.tsudao.com/models/perrotta/TIME_MACHINE.jpg'
